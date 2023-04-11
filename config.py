@@ -1,0 +1,1 @@
+TOKEN = "5593532042:AAEhFF4z7YwmBh-lZRkN_1RUAUVxMSpHqbI" # Telegram Bot Token
